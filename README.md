@@ -126,7 +126,3 @@ Possible improvements for future versions include:
 **MatinOfi**
 
 GitHub: [@MatinOfi](https://github.com/MatinOfi)
-
-## 📄 License
-
-No license has been selected for this project yet. A license can be added later to clarify how others may use, modify, and distribute the code.
